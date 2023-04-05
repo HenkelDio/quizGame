@@ -16,7 +16,7 @@
 
 ## Overview
 
-O desafio foi desenvolver um jogo Quiz, onde o usuário pudesse responder conforme seleção de categoria. A quantidade de perguntas são conforme cadastradas no arquivo <code>categories</code>. Podem ser adicionados infinitas categorias e perguntas.
+O desafio foi desenvolver um jogo Quiz, onde o usuário pudesse responder conforme seleção de categoria. A quantidade de perguntas são conforme cadastradas no arquivo <code>mocks/categories</code>. Podem ser adicionados infinitas categorias e perguntas.
 
 <br/>
 Os usuários podem:
