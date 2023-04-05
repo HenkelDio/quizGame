@@ -73,6 +73,7 @@ Para adicionar novos quizzes, podemos usar JSON:
         "correct_answer": 2,
       },
 ```
+<br/>
 
 ![visualizer](./assets/viz.gif)
 
