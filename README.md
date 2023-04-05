@@ -10,6 +10,7 @@ Os usuários podem:
 
 - Selecionar categorias para responder
 - Responder questões
+- Conferir a quantidade de questões
 - Visualizar a quantidade de acertos
 
 ## Como foi desenvolvido
@@ -23,15 +24,22 @@ Os usuários podem:
 - #542EEE
 - #785AF3
 - #FFD749
-
 <br/>
 
 #### Tipografia:
 
 - Inter (Bold, Regular)
 
-![aps](./assets/figma.png)
+![figma](./assets/figma.png)
 
+## Feito com
+
+#### O jogo foi desenvolvido com Dart(Flutter)
+
+## Funcionamento
+
+
+![visulizer](./assets/viz.gif)
 
 
 
