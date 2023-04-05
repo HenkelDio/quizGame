@@ -4,6 +4,16 @@
 
 ![aps](./assets/Cover%20page1.png)
 
+## Table of contents
+
+- [Overview](#overview)
+- [Como foi desenvolvido](#como-foi-desenvolvido)
+- [Linguagens e Techs utilizadas](#linguagens-e-techs-utilizadas)
+- [Funcionamento](#funcionamento)
+- [Criado por](#criado-por)
+
+
+
 ## Overview
 
 O desafio foi desenvolver um jogo Quiz, onde o usuário pudesse responder conforme seleção de categoria.
@@ -34,9 +44,9 @@ Os usuários podem:
 
 ![figma](./assets/figma.png)
 
-## Feito com
+## Linguagens e Techs utilizadas :books:
 
-#### O jogo foi desenvolvido com Dart(Flutter)
+- [Flutter](https://flutter.dev/)
 
 ## Funcionamento
 
@@ -47,6 +57,10 @@ Para rodar em sua máquina, use o <code>flutter run</code>
 ## Criado por
 
 - Linkedin - [Willian Henkel](https://www.linkedin.com/in/willian-henkel-b652b3205/)
+<br />
+|nome|email|
+| -------- | -------- |
+|Willian Henkel|willianhenkel@gmail.com|
 
 
 
