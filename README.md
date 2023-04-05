@@ -8,7 +8,7 @@
 
 - [Overview](#overview)
 - [Como foi desenvolvido](#como-foi-desenvolvido)
-- [Linguagens e Techs utilizadas](#linguagens-e-techs-utilizadas)
+- [Linguagens e Techs utilizadas](#linguagens-e-techs-utilizadas:books:)
 - [Funcionamento](#funcionamento)
 - [Criado por](#criado-por)
 
@@ -58,9 +58,6 @@ Para rodar em sua máquina, use o <code>flutter run</code>
 
 - Linkedin - [Willian Henkel](https://www.linkedin.com/in/willian-henkel-b652b3205/)
 <br />
-|nome|email|
-| -------- | -------- |
-|Willian Henkel|willianhenkel@gmail.com|
-
+- Email - willianhenkel@gmail.com
 
 
