@@ -41,5 +41,9 @@ Os usuários podem:
 
 ![visulizer](./assets/viz.gif)
 
+## Criado por
+
+- Linkedin - [Willian Henkel](https://www.linkedin.com/in/willian-henkel-b652b3205/)
+
 
 
