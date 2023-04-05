@@ -1,6 +1,6 @@
 # QUIZ APP
 
-![aps](./assets/Cover%20page.png)
+![aps](./assets/Cover%20page1.png)
 
 ## Overview
 
