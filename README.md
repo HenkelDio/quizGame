@@ -10,10 +10,10 @@ O desafio foi desenvolver um jogo Quiz, onde o usuário pudesse responder confor
 <br/>
 Os usuários podem:
 
-- Selecionar categorias para responder
-- Responder questões
-- Conferir a quantidade de questões
-- Visualizar a quantidade de acertos
+:trophy: Selecionar categorias para responder
+:trophy: Responder questões
+:trophy: Conferir a quantidade de questões
+:trophy: Visualizar a quantidade de acertos
 
 ## Como foi desenvolvido
 
