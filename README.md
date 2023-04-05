@@ -4,7 +4,7 @@
 
 ![aps](./assets/Cover%20page1.png)
 
-## Table of contents
+## Tabela de conteúdo
 
 - [Overview](#overview)
 - [Como foi desenvolvido](#como-foi-desenvolvido)
@@ -54,6 +54,23 @@ Os usuários podem:
 Para rodar em sua máquina, use o <code>flutter run</code>
 <br />
 Código-fonte em <code>lib</code>
+<br />
+Para adicionar novos quizzes, podemos usar JSON:
+<code>
+      {
+        "title": "TECNOLOGIA",
+        "quiz": [
+          {
+        "question": "Machine Learning é",
+        "answers": [
+          "DESENVOLVIMENTO WEB",
+          "APRENDIZADO DE MÁQUINA",
+          "DESIGN",
+          "DESENVOLVIMENTO DE JOGOS"
+        ],
+        "correct_answer": 2,
+      },
+</code>
 
 ![visulizer](./assets/viz.gif)
 
