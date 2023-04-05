@@ -10,10 +10,10 @@ O desafio foi desenvolver um jogo Quiz, onde o usuário pudesse responder confor
 <br/>
 Os usuários podem:
 
-:trophy: Selecionar categorias para responder
-:trophy: Responder questões
-:trophy: Conferir a quantidade de questões
-:trophy: Visualizar a quantidade de acertos
+:trophy: - Selecionar categorias para responder
+:trophy: - Responder questões
+:trophy: - Conferir a quantidade de questões
+:trophy: - Visualizar a quantidade de acertos
 
 ## Como foi desenvolvido
 
@@ -40,6 +40,7 @@ Os usuários podem:
 
 ## Funcionamento
 
+Para rodar em sua máquina, use o <code>flutter run</code>
 
 ![visulizer](./assets/viz.gif)
 
