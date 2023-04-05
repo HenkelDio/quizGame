@@ -55,7 +55,7 @@ Para rodar em sua máquina, use o <code>flutter run</code>
 <br />
 Código-fonte em <code>lib</code>
 <br />
-Para adicionar novos quizzes, podemos usar JSON:
+Para adicionar novos quizzes, podemos adicionar JSON em <code>mocks/categories</code>
 <br/>
 
 ```
