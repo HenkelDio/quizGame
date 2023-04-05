@@ -8,7 +8,7 @@
 
 - [Overview](#overview)
 - [Como foi desenvolvido](#como-foi-desenvolvido)
-- [Linguagens e Techs utilizadas](#linguagens-e-techs-utilizadas:books:)
+- [Linguagens e Techs utilizadas](#linguagens-e-techs-utilizadas)
 - [Funcionamento](#funcionamento)
 - [Criado por](#criado-por)
 
@@ -51,6 +51,8 @@ Os usuários podem:
 ## Funcionamento
 
 Para rodar em sua máquina, use o <code>flutter run</code>
+<br />
+Código-fonte em <code>lib</code>
 
 ![visulizer](./assets/viz.gif)
 
