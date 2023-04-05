@@ -1,5 +1,7 @@
 # QUIZ APP
 
+<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+
 ![aps](./assets/Cover%20page1.png)
 
 ## Overview
