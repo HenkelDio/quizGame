@@ -57,8 +57,8 @@ Código-fonte em <code>lib</code>
 <br />
 Para adicionar novos quizzes, podemos usar JSON:
 <br/>
-```
 <code>
+```
       {
         "title": "TECNOLOGIA",
         "quiz": [
@@ -72,8 +72,8 @@ Para adicionar novos quizzes, podemos usar JSON:
         ],
         "correct_answer": 2,
       },
-</code>
 ```
+</code>
 ![visulizer](./assets/viz.gif)
 
 ## Criado por
